@@ -5,3 +5,4 @@ my to-do list
 4. attend class on time
 5. visit library
 6. apply for IT jobs
+7. go concert
